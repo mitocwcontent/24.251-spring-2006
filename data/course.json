@@ -1,0 +1,43 @@
+{
+  "term": "Spring",
+  "year": "2006",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Philosophy",
+      "Philosophy of Language"
+    ],
+    [
+      "Humanities",
+      "Linguistics"
+    ]
+  ],
+  "legacy_uid": "975da844-226a-7d65-b47e-6641741f2cb4",
+  "instructors": {
+    "content": [
+      "e704f6b4-2899-db3c-b835-728a6cc18e95"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "b45fe48d-329b-be50-0618-90589da4de01",
+    "website": "24-251-introduction-to-philosophy-of-language-spring-2006"
+  },
+  "course_title": "Introduction to Philosophy of Language",
+  "course_description": "This course is an introduction to the philosophy of language. It examines different views on the nature of meaning, truth and reference, with special focus on the problem of understanding how linguistic communication works.\n",
+  "department_numbers": [
+    "24"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "24.251",
+  "course_image_thumbnail": {
+    "content": "452d0561-5bc6-0b76-0d9f-a7ff8f2b891f",
+    "website": "24-251-introduction-to-philosophy-of-language-spring-2006"
+  },
+  "learning_resource_types": [],
+  "site_uid": "abf9d055-17d2-472b-874f-be0f8de7b000",
+  "title": "Course Metadata"
+}
